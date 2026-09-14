@@ -1,0 +1,12 @@
+# This file is used to override language statistics
+# Normalize line endings
+# Language detection rules
+src/**/*.tsx linguist-detectable
+*.jpg binary
+
+*.min.css linguist-generated
+
+*.tsx linguist-detectable
+*.html linguist-vendored
+
+*.yml linguist-detectable=false
